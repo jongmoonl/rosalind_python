@@ -14,7 +14,7 @@ class Filereader :
         self.fname = fname
 
     def doOpen (self):
-        if self.fname is '':
+        if self.fname == '':
             return sys.stdin
         else:
             return open(self.fname)
