@@ -10,3 +10,4 @@ Most of the programs are made to run on commandline.
 [rosalind ba3h](http://rosalind.info/problems/ba3h/) - Reconstruct a String from its k-mer Composition  
 [rosalind ba5d](http://rosalind.info/problems/ba5d/) - Find the Longest Path in a DAG  
 [rosalind ba10a](http://rosalind.info/problems/ba10a/) - Compute the Probability of a Hidden Path     
+[rosalind ba10b](http://rosalind.info/problems/ba10a/) - Compute the Probability of an Outcome Given a Hidden Path      
